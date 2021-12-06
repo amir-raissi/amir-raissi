@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir-raissi&count_private=true&show_icons=true&theme=radical&hide=stars)
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir-raissi&count_private=true&show_icons=true&theme=radical&hide=stars,contribs)
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-raissi&layout=compact)
