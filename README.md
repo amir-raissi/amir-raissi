@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-raissi&hide=scss,shell&layout=compact) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-raissi&hide=scss&layout=compact) -->
 
-![Top Langs](./images/topLangs.svg 'Top Langs 23-01-22')
+![Top Langs](./images/topLangs.svg 'Top Langs 22-03-22')
